@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<tour>
+    <name>Lithuanian Journey</name>
+    <duration>2</duration>
+    <visits>
+        <visit>
+            <country>Lithuania</country>
+            <city>Vilnius</city>
+            <duration>2</duration>
+            <hotel>
+                <name>Radisson Blu</name>
+                <address>Vilnius, Konstitucijos pr. 20</address>
+                <stars>4</stars>
+            </hotel>
+            <sights>
+                <sight>
+                    <name>The Gediminas' Tower</name>
+                    <duration>3</duration>
+                </sight>
+                <sight>
+                    <name>Museum of Occupations and Freedom Fights</name>
+                    <duration>2</duration>
+                </sight>
+            </sights>
+        </visit>
+    </visits>
+    <guide>
+        <firstName>Pavlo</firstName>
+        <lastName>Nychyporuk</lastName>
+        <experience>10</experience>
+    </guide>
+    <price>300</price>
+</tour>
